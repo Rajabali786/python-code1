@@ -1,7 +1,6 @@
                          #  practic question
 #Q. create account class with two attributes-balance and account numb. 
 #   create methood for debit, creadit and printing the blance.
-
 pin= int(input("please enter your pin: ",  )  ) 
 if ( pin == 1196 ):
     print ( "thank you for using HBL atm" )
